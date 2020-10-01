@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependFunction", "DependFunction.csproj", "{BFDD6231-3D77-44CB-B34E-C425BC0C3134}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFDD6231-3D77-44CB-B34E-C425BC0C3134}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFDD6231-3D77-44CB-B34E-C425BC0C3134}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFDD6231-3D77-44CB-B34E-C425BC0C3134}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFDD6231-3D77-44CB-B34E-C425BC0C3134}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06937C4A-C9E0-4B38-91AE-ADCFA5C9B00C}
+	EndGlobalSection
+EndGlobal
